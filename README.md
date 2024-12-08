@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @AvvariRajesh
-- 👀 I’m interested in software developing
-- 🌱 I’m currently learning DSA with java
-- 💞️ I’m looking to collaborate on SDE role
-- 📫 How to reach me rajeshkumar.a5910@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: I love bikes
 
-<!---
-AvvariRajesh/AvvariRajesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Here's a creative and innovative GitHub profile summary tailored to your expertise:
+
+👋 Hi, I'm Avvari Rajesh Kumar – a passionate problem solver and tech enthusiast based in Chennai, India.
+
+💻 I thrive at the intersection of distributed systems, machine learning, and full-stack development, crafting scalable solutions for real-world challenges. From building AI-powered personal assistants to creating intuitive task management systems, my code speaks innovation.
+
+Programming Languages:- Python, Java, C, JavaScript, SQL, TypeScript
+
+
+Technologies/Frameworks:- Angular, React, Spring Boot, Angular.
+
+
+Developer Tools:- Git, VS Code, Eclipse, Android Studio
+
+
+Areas of Interest:- Machine Learning, Distributed Systems, Systems Programming, Web Development, Fullstack Development.
+
+
+🚀 Open to collaborations on cutting-edge projects. Let's code something amazing together!
+
+🌐 Check out my projects, drop a star ⭐, and let’s make the digital world smarter and more efficient.
+
+
