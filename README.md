@@ -35,9 +35,9 @@ I thrive at the intersection of **Distributed Systems**, **Machine Learning**, a
 
 ## 🌐 Find Me Here
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)  
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/)  
-[![CodeChef](https://img.shields.io/badge/-CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rajesh_avvari_20/)  
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rajeshkumar_a591)  
+[![CodeChef](https://img.shields.io/badge/-CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rajesh_chef_59)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)  
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
 
@@ -50,4 +50,6 @@ I thrive at the intersection of **Distributed Systems**, **Machine Learning**, a
 ## ⭐ Let's Build Together!
 
 Check out my projects, drop a star, and let's make the digital world **smarter** and **more efficient**!
+
+
 
